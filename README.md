@@ -1,4 +1,4 @@
-# GP3 Growth Curve Viewer
+# Growth Curve Viewer
 
 Version 1.0.0
 
